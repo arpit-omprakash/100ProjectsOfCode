@@ -24,8 +24,8 @@ General Web projects, from building a simple website to building tools for compl
   - [ ] [Web Search Engine](#search-engine)
   - [ ] [Bandwidth Monitor](#bandwidth-monitor)
   - [ ] [Product Landing Page](#product-landing-page)
-  - [ ] [Create Your Own Blog](#create-your-blog)
-  - [ ] [Your Portfolio Website](#your-portfolio-website)
+  - [ ] [Create Your Own Blog](#blog)
+  - [ ] [Your Portfolio Website](#portfolio-website)
   - [ ] [Animated Navigation Toggle](#animated-navigation-toggle)
   - [ ] [Country Lookup using IP address](#country-lookup-using-ip-address)
 ### Bots  
@@ -65,8 +65,8 @@ Proper software or application suggestions that you may even end up using in you
   - [ ] [Relational Database Management System](#relational-database-management-system)
 ### Artificial Intelligence  
 Projects that mostly deal with Artificial Intelligence or Machine Learning. Ideal to showcase on your portfolio if you are thinking of apply for any AI related jobs or programs.  
-  - [ ] [Face Tracking](#face-tracking)
-  - [ ] [Spam Classifier](#span-classifier)
+  - [ ] [Face Tracking](#face-tracker)
+  - [ ] [Spam Classifier](#spam-classifier)
   - [ ] [Spoiler Blocker](#spoiler-blocker)
   - [ ] [Music Suggestor](#music-suggestor)
   - [ ] [Machine Translator](#machine-translator)
@@ -111,7 +111,7 @@ All work and no play makes jack a dull boy! Games are a must to enjoy and learn 
   - [ ] [Flappy Bird AI](#flappy-bird-ai)
   - [ ] [Tic-Tac-Toe AI](#tic-tac-toe-ai)
   - [ ] [Elevator Simulator](#elevator-simulator)
-  - [ ] [Simulate the World](#world-simulation)
+  - [ ] [Simulate the World](#simulate-the-world)
   - [ ] [Character Generator](#character-generator)
   - [ ] [Conway's Game of Life](#game-of-life)
 ### Miscellaneous  
