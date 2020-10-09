@@ -5,7 +5,7 @@ The projects are divided into multiple categories and tagged with some suggested
 ## Getting Started
 To get started with the project ideas:
 1. Pick a project from the list
-2. Crete a GitHub repository for the project
+2. Create a GitHub repository for the project
 3. Start working, possibly from scratch (reinvent the wheel if you have to!)
 4. When done, test it, and share with the tag #100ProjectsOfCode somewhere in the README of the repo
 5. Fork this repo
@@ -13,59 +13,6 @@ To get started with the project ideas:
 
 ## Categories
 
-- **Simulations, Games and Game AI**  
-- [ ] [Pong](#pong)
-- [ ] [Risk](#risk)
-- [ ] [Chess](#chess)
-- [ ] [Snake](#snake)
-- [ ] [Tetris](#tetris)
-- [ ] [Chess AI](#chess-ai)
-- [ ] [Snake AI](#snake-ai)
-- [ ] [Map Maker](#map-maker)
-- [ ] [Battleship](#battleship)
-- [ ] [Flappy Bird](#flappy-bird)
-- [ ] [Tic-Tac-Toe](#tic-tac-toe)
-- [ ] [Memory Puzzle](#memory-puzzle)
-- [ ] [Physics Engine](#physics-engine)
-- [ ] [Flappy Bird AI](#flappy-bird-ai)
-- [ ] [Tic-Tac-Toe AI](#tic-tac-toe-ai)
-- [ ] [Elevator Simulator](#elevator-simulator)
-- [ ] [Simulate the World](#world-simulation)
-- [ ] [Character Generator](#character-generator)
-- [ ] [Conway's Game of Life](#game-of-life)
-- **Cryptography**  
-- [ ] [Codec Software](#codec-software)
-- [ ] [Password Manager](#password-manager)
-- [ ] [Password Generator](#password-generator)
-- [ ] [Folder Encrypter/Locker](#folder-encrypter)
-- [ ] [Password Strength Checker](#password-strength-checker)
-- **Artificial Intelligence**  
-- [ ] [Face Tracking](#face-tracking)
-- [ ] [Spam Classifier](#span-classifier)
-- [ ] [Spoiler Blocker](#spoiler-blocker)
-- [ ] [Music Suggestor](#music-suggestor)
-- [ ] [Machine Translator](#machine-translator)
-- [ ] [Hand Gesture Recognition](#hand-gesture-recognition)
-- [ ] [Video Subtitle Generator](#video-subtitle-generator)
-- [ ] [Automatic Logo Generator](#automatic-logo-generator)
-- [ ] [Movie Recommendation System](#movie-recommendation-system)
-- [ ] [Audio to Sign Language Translator](#audio-to-sign-laguage-translator)
-- **Bots**  
-- [ ] [Chatbot](#chatbot)
-- [ ] [Slack Bot](#slack-bot)
-- [ ] [Twitter Bot](#twitter-bot)
-- [ ] [Messenger Bot](#messenger-bot)
-- [ ] [WhatsApp Butler](#whatsapp-butler)
-- **Theoretical Computer Science**  
-- [ ] [Build an OS](#build-an-os)
-- [ ] [Shuffle Deck](#shuffle-deck)
-- [ ] [Sorting Visualizer](#sorting-visualizer)
-- [ ] [Static Code Analyzer](#static-code-analyzer)
-- [ ] [Command Line Terminal](#command-line-terminal)
-- [ ] [UML Diagram Generator](#uml-diagram-generator)
-- [ ] [Pathfinding Visualizer](#pathfinding-visualizer)
-- [ ] [Version Control System](#version-control-system)
-- [ ] [Code a Programming Language](#programming-language)
 - **General Web & Networking Projects**  
 - [ ] [FTP Client](#ftp-client)
 - [ ] [HTTP Server](#http-server)
@@ -80,10 +27,12 @@ To get started with the project ideas:
 - [ ] [Your Portfolio Website](#your-portfolio-website)
 - [ ] [Animated Navigation Toggle](#animated-navigation-toggle)
 - [ ] [Country Lookup using IP address](#country-lookup-using-ip-address)
-- **Coding Challenges**  
-- [ ] [Project Euler](#project-euler)
-- [ ] [Advent-Of-Code](#advent-of-code)
-- [ ] [Kaggle's Titanic Challenge](#kaggle-titanic-challenge)
+- **Bots**  
+- [ ] [Chatbot](#chatbot)
+- [ ] [Slack Bot](#slack-bot)
+- [ ] [Twitter Bot](#twitter-bot)
+- [ ] [Messenger Bot](#messenger-bot)
+- [ ] [WhatsApp Butler](#whatsapp-butler)
 - **Software & Apps**  
 - [ ] [Quiz App](#quiz-app)
 - [ ] [Firewall](#firewall)
@@ -111,6 +60,53 @@ To get started with the project ideas:
 - [ ] [Video Call Application](#video-call-application)
 - [ ] [Library Management System](#library-management-system)
 - [ ] [Relational Database Management System](#relational-database-management-system)
+- **Artificial Intelligence**  
+- [ ] [Face Tracking](#face-tracking)
+- [ ] [Spam Classifier](#span-classifier)
+- [ ] [Spoiler Blocker](#spoiler-blocker)
+- [ ] [Music Suggestor](#music-suggestor)
+- [ ] [Machine Translator](#machine-translator)
+- [ ] [Hand Gesture Recognition](#hand-gesture-recognition)
+- [ ] [Video Subtitle Generator](#video-subtitle-generator)
+- [ ] [Automatic Logo Generator](#automatic-logo-generator)
+- [ ] [Movie Recommendation System](#movie-recommendation-system)
+- [ ] [Audio to Sign Language Translator](#audio-to-sign-laguage-translator)
+- **Theoretical Computer Science**  
+- [ ] [Build an OS](#build-an-os)
+- [ ] [Shuffle Deck](#shuffle-deck)
+- [ ] [Sorting Visualizer](#sorting-visualizer)
+- [ ] [Static Code Analyzer](#static-code-analyzer)
+- [ ] [Command Line Terminal](#command-line-terminal)
+- [ ] [UML Diagram Generator](#uml-diagram-generator)
+- [ ] [Pathfinding Visualizer](#pathfinding-visualizer)
+- [ ] [Version Control System](#version-control-system)
+- [ ] [Code a Programming Language](#programming-language)
+- **Cryptography**  
+- [ ] [Codec Software](#codec-software)
+- [ ] [Password Manager](#password-manager)
+- [ ] [Password Generator](#password-generator)
+- [ ] [Folder Encrypter/Locker](#folder-encrypter)
+- [ ] [Password Strength Checker](#password-strength-checker)
+- **Simulations, Games and Game AI**  
+- [ ] [Pong](#pong)
+- [ ] [Risk](#risk)
+- [ ] [Chess](#chess)
+- [ ] [Snake](#snake)
+- [ ] [Tetris](#tetris)
+- [ ] [Chess AI](#chess-ai)
+- [ ] [Snake AI](#snake-ai)
+- [ ] [Map Maker](#map-maker)
+- [ ] [Battleship](#battleship)
+- [ ] [Flappy Bird](#flappy-bird)
+- [ ] [Tic-Tac-Toe](#tic-tac-toe)
+- [ ] [Memory Puzzle](#memory-puzzle)
+- [ ] [Physics Engine](#physics-engine)
+- [ ] [Flappy Bird AI](#flappy-bird-ai)
+- [ ] [Tic-Tac-Toe AI](#tic-tac-toe-ai)
+- [ ] [Elevator Simulator](#elevator-simulator)
+- [ ] [Simulate the World](#world-simulation)
+- [ ] [Character Generator](#character-generator)
+- [ ] [Conway's Game of Life](#game-of-life)
 - **Miscellaneous**  
 - [ ] [Deal Finder](#deal-finder)
 - [ ] [Expense Tracker](#expense-tracker)
@@ -122,6 +118,10 @@ To get started with the project ideas:
 - [ ] [Directory Tree Generator](#directory-tree-generator)
 - [ ] [Random username Generator](#random-username-generator)
 - [ ] [Roman to Decimal Converter](#roman-to-decimal-converter)
+- **Coding Challenges**  
+- [ ] [Project Euler](#project-euler)
+- [ ] [Advent-Of-Code](#advent-of-code)
+- [ ] [Kaggle's Titanic Challenge](#kaggle-titanic-challenge)
 
 
 <!--
