@@ -952,6 +952,13 @@ Kaggle offers fascinating challenges to introduce you to the basics of machine l
 
 **Suggested Language**: Python or R  
 
+## Learn programming
+
+### Exercism
+
+[Exercism](https://exercism.io) is a open-source community-driven website where anyone can learn programming for free, with the help of mentors
+
+**Suggested Language**: Any language you want to learn or master 
 
 ## References
 - [40 Side Project ideas for Software Engineers](https://www.codementor.io/@npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef)
