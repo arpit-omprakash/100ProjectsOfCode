@@ -484,11 +484,11 @@ Build an antivirus software that will protect you from viruses and other compute
 
 ### Video Call Application
 
-=Build an app that can let you video call anyone anywhere over the internet.
+Build an app that can let you video call anyone anywhere over the internet.
 
-**Suggested Language**:  
+**Suggested Language**: Python, Java, C++ for a desktop app  
 **Suggested Frameworks/Tools**:  
-**Example Implementation**:
+**Example Implementation**: [Nextcloud Talk](https://github.com/nextcloud/spreed) and [Jitsi](https://github.com/jitsi/jitsi-meet) are open-source video call softwaress
 
 ### Library Management System
 
