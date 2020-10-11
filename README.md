@@ -199,9 +199,9 @@ Build an app that will allow for peer-to-peer file sharing securely over the int
 
 Build a Web Search Engine like Google or Bing. Don't copy from them though :wink:
 
-**Suggested Language**:  
-**Suggested Frameworks/Tools**:  
-**Example Implementation**:
+**Suggested Language**: web languages. The real work will happen on the backend side with languages like Python, PHP, SQL, Node... Use anything you want for the frontend : HTML, CSS, Javascript...  
+**Suggested Frameworks/Tools**: Django if you use Python, MySQL for the databases if you need one  
+**Example Implementation**: [searX](https://github.com/searx/searx) is an open-source search engine coded mostly in Python and Javascript
 
 ### Bandwidth Monitor
 
