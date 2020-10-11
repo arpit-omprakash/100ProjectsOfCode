@@ -593,9 +593,9 @@ Similar to the video translator, but now you need to translate an audio to sign 
 
 This project will be technically challenging and will deepen your understanding of how computers and operating systems work. Building an OS from the ground up is a really daunting task but you will surely find a way to do it.
 
-**Suggested Language**:  
-**Suggested Frameworks/Tools**:  
-**Example Implementation**:
+**Suggested Language**: low-level languages like C/C++.
+**Suggested Frameworks/Tools**: -
+**Example Implementation**: [LFS](http://www.linuxfromscratch.org/) is a project that explain every step to create a Linux OS
 
 ### Shuffle Deck
 
