@@ -185,7 +185,7 @@ A packet sniffer is used to monitor network traffic by examining streams of data
 
 **Suggested Language**: Java, C++  
 **Suggested Frameworks/Tools**:  
-**Example Implementation**:
+**Example Implementation**: [Wireshark](https://github.com/wireshark/wireshark) is an extremely complete packet sniffer, [herbivore](https://github.com/samatt/herbivore) is a simpler implementation.
 
 ### P2P File Sharing
 
