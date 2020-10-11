@@ -175,9 +175,9 @@ Build a web scraper that takes in a URL/Keyword as input and returns matching re
 
 Build a port scanner application that can probe a server or host for open ports. You will need some technical knowledge regarding how networks work and how you can scan for ports or classify them.
 
-**Suggested Language**: Java, C++  
-**Suggested Frameworks/Tools**:  
-**Example Implementation**:
+**Suggested Language**: Java, C++, Python  
+**Suggested Frameworks/Tools**: [socket](https://docs.python.org/3/library/socket.html) Python library  
+**Example Implementation**: [piescan](https://github.com/m57/piescan) is a Python implementation
 
 ### Packet Sniffer
 
