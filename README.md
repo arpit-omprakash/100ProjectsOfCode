@@ -151,9 +151,9 @@ Description
 A simple File Transfer client that uses the FTP (File Transfer Protocol). As a bonus challenge, add support for secure file transfer. It can be a web, desktop, or CLI app.
 You can try to first implement TFTP (Trivial File Transfer Protocol) as it's easier.
 
-**Suggested Language**: C/C++
-**Suggested Frameworks/Tools**: use [Wireshark](https://github.com/wireshark/wireshark) to observe packets and debug them
-**Example Implementation**: [Filezilla](https://filezilla-project.org/sourcecode.php) is extremely complete, [here](https://github.com/jlaffaye/ftp) is a simple Go implementation
+**Suggested Language**: C/C++  
+**Suggested Frameworks/Tools**: use [Wireshark](https://github.com/wireshark/wireshark) to observe packets and debug them  
+**Example Implementation**: [Filezilla](https://filezilla-project.org/sourcecode.php) is extremely complete, [here](https://github.com/jlaffaye/ftp) is a simple Go implementation  
 
 ### HTTP Server
 
@@ -576,8 +576,8 @@ Build a software that takes in a company name and some related keywords to gener
 
 Build a recommendation system that lets you or any users choose the next movie that you want to watch. Instead of copying an existing movie recommender with a well studied algorithm, try to come up with your own algorithm and test it out.
 
-**Suggested Language**: Python (or any other language you are comfortable with)
-**Suggested Frameworks/Tools**: -
+**Suggested Language**: Python (or any other language you are comfortable with)  
+**Suggested Frameworks/Tools**: -  
 **Example Implementation**: There are many, [Netflix](https://www.netflix.com/) recommender system, [Movie lens](https://movielens.org/), etc
 
 ### Audio to Sign Language Translator
@@ -594,9 +594,9 @@ Similar to the video translator, but now you need to translate an audio to sign 
 
 This project will be technically challenging and will deepen your understanding of how computers and operating systems work. Building an OS from the ground up is a really daunting task but you will surely find a way to do it.
 
-**Suggested Language**: low-level languages like C/C++.
-**Suggested Frameworks/Tools**: -
-**Example Implementation**: [LFS](http://www.linuxfromscratch.org/) is a project that explain every step to create a Linux OS
+**Suggested Language**: low-level languages like C/C++.  
+**Suggested Frameworks/Tools**: -  
+**Example Implementation**: [LFS](http://www.linuxfromscratch.org/) is a project that explain every step to create a Linux OS  
 
 ### Shuffle Deck
 
