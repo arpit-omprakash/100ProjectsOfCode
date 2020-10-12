@@ -830,8 +830,8 @@ Build a simulation for an elevator. This may seem like a random simulation, but 
 
 Build a simulation of the whole world. Try to be as detailed as you can. Keep it simple when you feel stuck and slowly improve on it. Treat it as a self-sustaining game if it makes things easier. For bonus points, add an AI to the system to let it work on its own.
 
-**Suggested Language**: C++ (or C - you will need a fast language for the simulation)
-**Suggested Frameworks/Tools**: Unity (Good for visualizations)
+**Suggested Language**: C++ (or C - you will need a fast language for the simulation)  
+**Suggested Frameworks/Tools**: Unity (Good for visualizations)  
 **Example Implementation**: [The Bibites](https://www.youtube.com/watch?v=myJ7YOZGkv0&ab_channel=TheBibites), [Simulating Ecosystem](https://www.youtube.com/watch?v=r_It_X7v-1E&ab_channel=SebastianLague) by Sebastian Lague
 
 ### Character Generator
