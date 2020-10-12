@@ -560,9 +560,9 @@ Build a piece of software that can recognise gestures from a camera video and th
 
 Input a video and get a subtitle! Build a software that automatically creates subtitles from a provided video. It may seem difficult in the beginning, but look up Natural Language Processing to see how far machines already are with regard to understanding human language.
 
-**Suggested Language**:  
-**Suggested Frameworks/Tools**:  
-**Example Implementation**:
+**Suggested Language**:  Python (As it would be really easy to implement with available libraries)  
+**Suggested Frameworks/Tools**:  [autosub](https://pypi.org/project/autosub/)  
+**Example Implementation**: You can refer the documentation [here](https://github.com/agermanidis/autosub/wiki) or can check the steps provided [here](http://alttechn.blogspot.com/2018/04/blog-post.html).
 
 ### Automatic Logo Generator
 
