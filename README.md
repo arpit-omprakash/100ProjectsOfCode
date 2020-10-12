@@ -559,8 +559,8 @@ Build a piece of software that can recognise gestures from a camera video and th
 
 Input a video and get a subtitle! Build a software that automatically creates subtitles from a provided video. It may seem difficult in the beginning, but look up Natural Language Processing to see how far machines already are with regard to understanding human language.
 
-**Suggested Language**:  Python (As it would be really easy to implement with available libraries) 
-**Suggested Frameworks/Tools**:  [autosub](https://pypi.org/project/autosub/)
+**Suggested Language**:  Python (As it would be really easy to implement with available libraries)  
+**Suggested Frameworks/Tools**:  [autosub](https://pypi.org/project/autosub/)  
 **Example Implementation**: You can refer the [documentation here.](https://github.com/agermanidis/autosub/wiki) Or can check the [steps provided here.](http://alttechn.blogspot.com/2018/04/blog-post.html)
 
 ### Automatic Logo Generator
@@ -575,7 +575,7 @@ Build a software that takes in a company name and some related keywords to gener
 
 Build a recommendation system that lets you or any users choose the next movie that you want to watch. Instead of copying an existing movie recommender with a well studied algorithm, try to come up with your own algorithm and test it out.
 
-**Suggested Language**: Python (or any other language you are comfortable with)
+**Suggested Language**: Python (or any other language you are comfortable with)  
 **Suggested Frameworks/Tools**: -
 **Example Implementation**: There are many, [Netflix](https://www.netflix.com/) recommender system, [Movie lens](https://movielens.org/), etc
 
