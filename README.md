@@ -148,11 +148,12 @@ Description
 
 ### FTP Client
 
-A simple File Transfer client that uses the FTP (File Transfer Protocol). As a bonus challenge, add support for secure file transfer. It can be a web, desktop, or CLI app.
+A simple File Transfer client that uses the FTP (File Transfer Protocol). As a bonus challenge, add support for secure file transfer. It can be a web, desktop, or CLI app.  
+You can try to first implement TFTP (Trivial File Transfer Protocol) as it's easier.
 
 **Suggested Language**: C/C++  
-**Suggested Frameworks/Tools**: -  
-**Example Implementation**:  
+**Suggested Frameworks/Tools**: Use [Wireshark](https://github.com/wireshark/wireshark) to observe packets and debug them  
+**Example Implementation**: [Filezilla](https://filezilla-project.org/sourcecode.php) is extremely complete, [here](https://github.com/jlaffaye/ftp) is a simple Go implementation  
 
 ### HTTP Server
 
@@ -174,9 +175,9 @@ Build a web scraper that takes in a URL/Keyword as input and returns matching re
 
 Build a port scanner application that can probe a server or host for open ports. You will need some technical knowledge regarding how networks work and how you can scan for ports or classify them.
 
-**Suggested Language**: Java, C++  
-**Suggested Frameworks/Tools**:  
-**Example Implementation**:
+**Suggested Language**: Java, C++, Python  
+**Suggested Frameworks/Tools**: [socket](https://docs.python.org/3/library/socket.html) Python library  
+**Example Implementation**: [piescan](https://github.com/m57/piescan) is a Python implementation
 
 ### Packet Sniffer
 
@@ -184,7 +185,7 @@ A packet sniffer is used to monitor network traffic by examining streams of data
 
 **Suggested Language**: Java, C++  
 **Suggested Frameworks/Tools**:  
-**Example Implementation**:
+**Example Implementation**: [Wireshark](https://github.com/wireshark/wireshark) is an extremely complete packet sniffer, [herbivore](https://github.com/samatt/herbivore) is a simpler implementation.
 
 ### P2P File Sharing
 
@@ -198,9 +199,9 @@ Build an app that will allow for peer-to-peer file sharing securely over the int
 
 Build a Web Search Engine like Google or Bing. Don't copy from them though :wink:
 
-**Suggested Language**:  
-**Suggested Frameworks/Tools**:  
-**Example Implementation**:
+**Suggested Language**: web languages. The real work will happen on the backend side with languages like Python, PHP, SQL, Node... Use anything you want for the frontend : HTML, CSS, Javascript...  
+**Suggested Frameworks/Tools**: Django if you use Python, MySQL for the databases if you need one  
+**Example Implementation**: [searX](https://github.com/searx/searx) is an open-source search engine coded mostly in Python and Javascript
 
 ### Bandwidth Monitor
 
@@ -483,11 +484,11 @@ Build an antivirus software that will protect you from viruses and other compute
 
 ### Video Call Application
 
-=Build an app that can let you video call anyone anywhere over the internet.
+Build an app that can let you video call anyone anywhere over the internet.
 
-**Suggested Language**:  
+**Suggested Language**: Python, Java, C++ for a desktop app  
 **Suggested Frameworks/Tools**:  
-**Example Implementation**:
+**Example Implementation**: [Nextcloud Talk](https://github.com/nextcloud/spreed) and [Jitsi](https://github.com/jitsi/jitsi-meet) are open-source video call software
 
 ### Library Management System
 
@@ -575,8 +576,8 @@ Build a software that takes in a company name and some related keywords to gener
 
 Build a recommendation system that lets you or any users choose the next movie that you want to watch. Instead of copying an existing movie recommender with a well studied algorithm, try to come up with your own algorithm and test it out.
 
-**Suggested Language**: Python (or any other language you are comfortable with)
-**Suggested Frameworks/Tools**: -
+**Suggested Language**: Python (or any other language you are comfortable with)  
+**Suggested Frameworks/Tools**: -  
 **Example Implementation**: There are many, [Netflix](https://www.netflix.com/) recommender system, [Movie lens](https://movielens.org/), etc
 
 ### Audio to Sign Language Translator
@@ -593,9 +594,9 @@ Similar to the video translator, but now you need to translate an audio to sign 
 
 This project will be technically challenging and will deepen your understanding of how computers and operating systems work. Building an OS from the ground up is a really daunting task but you will surely find a way to do it.
 
-**Suggested Language**:  
-**Suggested Frameworks/Tools**:  
-**Example Implementation**:
+**Suggested Language**: low-level languages like C/C++.  
+**Suggested Frameworks/Tools**: -  
+**Example Implementation**: [LFS](http://www.linuxfromscratch.org/) is a project that explain every step to create a Linux OS  
 
 ### Shuffle Deck
 
