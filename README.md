@@ -148,11 +148,11 @@ Description
 
 ### FTP Client
 
-A simple File Transfer client that uses the FTP (File Transfer Protocol). As a bonus challenge, add support for secure file transfer. It can be a web, desktop, or CLI app.
+A simple File Transfer client that uses the FTP (File Transfer Protocol). As a bonus challenge, add support for secure file transfer. It can be a web, desktop, or CLI app.  
 You can try to first implement TFTP (Trivial File Transfer Protocol) as it's easier.
 
 **Suggested Language**: C/C++  
-**Suggested Frameworks/Tools**: use [Wireshark](https://github.com/wireshark/wireshark) to observe packets and debug them  
+**Suggested Frameworks/Tools**: Use [Wireshark](https://github.com/wireshark/wireshark) to observe packets and debug them  
 **Example Implementation**: [Filezilla](https://filezilla-project.org/sourcecode.php) is extremely complete, [here](https://github.com/jlaffaye/ftp) is a simple Go implementation  
 
 ### HTTP Server
@@ -488,7 +488,7 @@ Build an app that can let you video call anyone anywhere over the internet.
 
 **Suggested Language**: Python, Java, C++ for a desktop app  
 **Suggested Frameworks/Tools**:  
-**Example Implementation**: [Nextcloud Talk](https://github.com/nextcloud/spreed) and [Jitsi](https://github.com/jitsi/jitsi-meet) are open-source video call softwaress
+**Example Implementation**: [Nextcloud Talk](https://github.com/nextcloud/spreed) and [Jitsi](https://github.com/jitsi/jitsi-meet) are open-source video call software
 
 ### Library Management System
 
@@ -958,7 +958,7 @@ Kaggle offers fascinating challenges to introduce you to the basics of machine l
 
 [Exercism](https://exercism.io) is a open-source community-driven website where anyone can learn programming for free, with the help of mentors
 
-**Suggested Language**: Any language you want to learn or master 
+**Suggested Language**: Any language you want to learn or master
 
 ## References
 - [40 Side Project ideas for Software Engineers](https://www.codementor.io/@npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef)
