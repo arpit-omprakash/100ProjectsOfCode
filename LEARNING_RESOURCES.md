@@ -9,7 +9,7 @@ Here is a table adapted from [r/learnprogramming](https://www.reddit.com/r/learn
 
 | I want to Learn how to... | Consider Learning... |
 |---------------------------|----------------------|
-| ...make iPhone Apps | Swift |
+| ...make iPhone Apps | Swift and Objective-C |
 | ...make Android Apps | Kotlin or Java |
 | ...build a website | JavaScript, CSS, HTML |
 | ...write Windows desktop applications | C# |
@@ -17,6 +17,8 @@ Here is a table adapted from [r/learnprogramming](https://www.reddit.com/r/learn
 | ...program Arduinos/micro-controllers/robots | C |
 | ...do scientific/mathematical computing or data analysis | Julia, Python, R, or MATLAB |
 | ...do automation and scripting | Many languages (Python, Ruby, Bash, PowerShell, AutoHotKey, ...) |
+| ...build dynamic webpages | HTML, CSS, JavaScript, Ruby on Rails, PHP |
+| ...build and manage databases | SQL |
 
 <!--
 Template
