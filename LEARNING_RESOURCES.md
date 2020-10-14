@@ -136,3 +136,4 @@ Description
 ## References
 - [The 5 Resources that helped me become a CSS master - Reddit](https://www.reddit.com/r/learnprogramming/comments/in3jvg/the_5_resources_that_helped_me_become_a_css/)
 - [Resources I wish I knew about long ago! - Reddit](https://www.reddit.com/r/learnprogramming/comments/icr9ac/resources_i_wish_i_knew_about_long_ago/)
+- [r/learnprogramming FAQs](https://www.reddit.com/r/learnprogramming/wiki/faq)
