@@ -3,6 +3,21 @@
 Apart from the list of projects to code, the most common other query that people have is **where can I learn coding from?**  
 This file is my attempt to compile a list of resources (tagged with languages/frameworks) that will help you learn how to code and hone your skills. Currently, the list is haphazard, but I'll soon arrange it in some fashion (either alphabetically, or by languages).
 
+## What language to learn
+
+Here is a table adapted from [r/learnprogramming](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_which_programming_language_should_i_start_with.3F) to help you choose which language best suits your needs and then proceed accordingly.
+
+| I want to Learn how to... | Consider Learning... |
+|---------------------------|----------------------|
+| ...make iPhone Apps | Swift |
+| ...make Android Apps | Kotlin or Java |
+| ...build a website | JavaScript, CSS, HTML |
+| ...write Windows desktop applications | C# |
+| ...make 2D or 3D games | JavaScript, C# or C++ |
+| ...program Arduinos/micro-controllers/robots | C |
+| ...do scientific/mathematical computing or data analysis | Julia, Python, R, or MATLAB |
+| ...do automation and scripting | Many languages (Python, Ruby, Bash, PowerShell, AutoHotKey, ...) |
+
 <!--
 Template
 ## Resource
