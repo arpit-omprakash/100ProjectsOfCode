@@ -48,5 +48,76 @@ Description
 **Free/Paid:** Paid  
 **Languages/Frameworks:** CSS  
 
+## The Odin Project
+
+[The Odin Project](https://theodinproject.com/) is an open source effort to teach web development for free. It has some great projects that you can build and showcase on your GitHub profile. The website is meant to be 'the' resource for web developers and even offers a final course on how to apply for jobs and get hired.
+
+**Free/Paid:** Free  
+**Languages/Frameworks:** JavaScript, Node.js, Ruby on Rails, Front end too (HTML, CSS)  
+
+## Full Stack Open
+
+[Full Stack Open](https://fullstackopen.com/en/) serves as an introduction to modern web app development with JavaScript. It mainly focuses on building single page applications with ReactJS using REST APIs and Node.js. The course is the same as the course at the Department of Computer Science at the University of Helsinki and also has an associated capstone project.
+
+**Free/Paid:** Free  
+**Languages/Frameworks:** ReactJS, JavaScript, TypeScript, MongoDB, Node.js, GraphQL, MERN  
+
+## App Academy
+
+[App Academy](https://open.appacademy.io/) boasts to be the #1 coding bootcamp in the US. It has a fair amount of free material (about 1500 hours worth of material) and an engaged community. Focus is on getting people placed at different companies. It also has a mentorship track to make things easier at your end for a price.
+
+**Free/Paid:** Free / Paid (Mentorship Plan at $29.99)  
+**Languages/Frameworks:** Ruby on Rails, MERN, JavaScript  
+
+## Solo Learn
+
+[Solo Learn](https://www.sololearn.com/) offers short courses that will help you gain a basic understanding of different languages. The courses are ideal for refreshing your memory for a given language or to learn them from the ground up. It also offers short quizzes in between that will help you test your knowledge along the way.
+
+**Free/Paid:** Free  
+**Languages/Frameworks:** A *Lot* of languages  
+
+## Free Code Camp
+
+[Free Code Camp](https://www.freecodecamp.org/) offers a path to software development even for beginners. The courses take you through interactive code that will help you get a sense of what is happening when you change something in the code. It also has material for coding interview preparation that will help you prepare for interviews.
+
+**Free/Paid:** Free  
+**Languages/Frameworks:** Python, JavaScript, Node.js, MongoDB, HTML, CSS  
+
+## Python Programming
+
+[Python Programming](https://pythonprogramming.net/) exclusively deals with Python. But it provides a lot of paths to take in order to specialize in a given niche. It starts from the fundamentals of Python and offers courses in Game Development, Quantum Computing, Machine Learning and many other things.
+
+**Free/Paid:** Free  
+**Languages/Frameworks:** Python  
+
+## Devoted Learner
+
+[Devoted Learner](https://devotedlearner.com/how-to-become-a-machine-learning-engineer/#Introduction) is kind of like a blog. It contains blog posts with resources and tips on how to become a Machine Learning Engineer. A good resource for beginners.
+
+**Free/Paid:** Free  
+**Languages/Frameworks:** Python  
+
+## Python Principles
+
+[Python Principles](https://pythonprinciples.com/) offers the basics of Python for beginners. It is a well built resource with lots of examples and challenges that will help you understand and put to use the very basics of Python.
+
+**Free/Paid:** Free / Paid (Pro at $29)  
+**Languages/Frameworks:** Python  
+
+## Learn X in Y minutes
+
+[Learn X in Y minutes](https://learnxinyminutes.com/) is a valuable library of syntax for many different languages. Recommended cheat sheet for languages.
+
+**Free/Paid:** Free  
+**Languages/Frameworks:** A *lot* of languages  
+
+## Rosettacode
+
+[Rosettacode](http://rosettacode.org/wiki/Rosetta_Code) is a programming [chrestomathy](https://en.wikipedia.org/wiki/Chrestomathy) site. It aims to answer a given question with many different languages to demonstrate how languages are similar and different, and how different languages can lead to different approaches for the same problems.
+
+**Free/Paid:** Free  
+**Languages/Frameworks:** A *lot* of languages  
+
 ## References
-- [The 5 Resources that helped me become a CSS master](https://www.reddit.com/r/learnprogramming/comments/in3jvg/the_5_resources_that_helped_me_become_a_css/)
+- [The 5 Resources that helped me become a CSS master - Reddit](https://www.reddit.com/r/learnprogramming/comments/in3jvg/the_5_resources_that_helped_me_become_a_css/)
+- [Resources I wish I knew about long ago! - Reddit](https://www.reddit.com/r/learnprogramming/comments/icr9ac/resources_i_wish_i_knew_about_long_ago/)
