@@ -96,7 +96,7 @@ Projects that involve dealing with encryption/decryption or in general computer 
 ### Simulations, Games and Game AI  
 All work and no play makes jack a dull boy! Games are a must to enjoy and learn many of the concepts of programming including OOPS.  
   - [X] [Pong](#pong)
-  - [ ] [Pong AI] (#pong-ai)
+  - [ ] [Pong AI](#pong-ai)
   - [ ] [Risk](#risk)
   - [ ] [Chess](#chess)
   - [ ] [Snake](#snake)
@@ -707,7 +707,7 @@ Code the game of [pong](https://en.wikipedia.org/wiki/Pong). Make it multiplayer
 **Suggested Frameworks/Tools**: Pygame (Python)
 **Example Implementation**:
 
-### Pong-AI
+### Pong AI
 
 Add to the Pong program you created above, and create an AI opponent to play against in a single player mode.
 
