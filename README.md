@@ -95,7 +95,7 @@ Projects that involve dealing with encryption/decryption or in general computer 
   - [ ] [Password Strength Checker](#password-strength-checker)
 ### Simulations, Games and Game AI  
 All work and no play makes jack a dull boy! Games are a must to enjoy and learn many of the concepts of programming including OOPS.  
-  - [X] [Pong](#pong)
+  - [ ] [Pong](#pong)
   - [ ] [Pong AI](#pong-ai)
   - [ ] [Risk](#risk)
   - [ ] [Chess](#chess)
