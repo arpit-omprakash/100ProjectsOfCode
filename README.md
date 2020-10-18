@@ -703,16 +703,16 @@ Build a website/app that will check how strong a given password is. To make it m
 
 Code the game of [pong](https://en.wikipedia.org/wiki/Pong). Make it multiplayer and visually appealing.
 
-**Suggested Language**: Python (or any other language of choice)<br>
-**Suggested Frameworks/Tools**: Pygame (Python)<br>
+**Suggested Language**: Python (or any other language of choice)  
+**Suggested Frameworks/Tools**: Pygame (Python)  
 **Example Implementation**:
 
 ### Pong AI
 
 Add to the Pong program you created above. Create an AI opponent to play against in a single player mode.
 
-**Suggested Language**: Python (or any other language of choice)<br>
-**Suggested Frameworks/Tools**: TensorFlow, PyTorch, openai/gym<br>
+**Suggested Language**: Python (or any other language of choice)  
+**Suggested Frameworks/Tools**: TensorFlow, PyTorch, openai/gym  
 **Example Implementation**:
 
 ### Risk
