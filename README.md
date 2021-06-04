@@ -903,7 +903,7 @@ Build a search tool that implements Regular Expressions. With it you can easily 
 
 ### Currency Converter
 
-Code a script that scrapes the currency conversion rate and then converts from a given currency to another suing the current market rate.
+Code a script that scrapes the currency conversion rate and then converts from a given currency to another using the current market rate.
 
 **Suggested Language**: Python, JavaScript  
 **Suggested Frameworks/Tools**:  
