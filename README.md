@@ -970,3 +970,4 @@ Kaggle offers fascinating challenges to introduce you to the basics of machine l
 - [13 Project Ideas for Intermediate Python Developers](https://realpython.com/intermediate-python-project-ideas/)
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 - [49 Ideas for Game Clones to Code](https://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
+- [Python Projects for Beginners to Advanced](https://www.interviewbit.com/blog/python-projects)
